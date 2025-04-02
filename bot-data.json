@@ -1,0 +1,32 @@
+{
+  "ASITHA MD": {
+    "image": "https://i.imgur.com/JQ9pRoN.png",
+    "description": "Advanced multi-device WhatsApp bot with premium features",
+    "videoUrl": "https://youtube.com/watch?v=asitha-md-tutorial",
+    "pricing": {
+      "1_month": { "price": 15.99, "label": "1 Month Plan" },
+      "2_weeks": { "price": 9.99, "label": "2 Weeks Plan" },
+      "1_week": { "price": 5.99, "label": "1 Week Plan" }
+    }
+  },
+  "VAJIRA MD": {
+    "image": "https://i.imgur.com/VaJjK7L.png",
+    "description": "High-performance bot with enhanced security features",
+    "videoUrl": "https://youtube.com/watch?v=vajira-md-tutorial",
+    "pricing": {
+      "1_month": { "price": 19.99, "label": "1 Month Plan" },
+      "2_weeks": { "price": 12.99, "label": "2 Weeks Plan" },
+      "1_week": { "price": 7.99, "label": "1 Week Plan" }
+    }
+  },
+  "BMW MD": {
+    "image": "https://i.imgur.com/BmWxY9p.png",
+    "description": "Business-oriented bot with marketing automation tools",
+    "videoUrl": "https://youtube.com/watch?v=bmw-md-tutorial",
+    "pricing": {
+      "1_month": { "price": 24.99, "label": "1 Month Plan" },
+      "2_weeks": { "price": 15.99, "label": "2 Weeks Plan" },
+      "1_week": { "price": 9.99, "label": "1 Week Plan" }
+    }
+  }
+}
