@@ -4,13 +4,13 @@
     "description": "CLICK PAIR BUTTON",
     "videoUrl": "https://asitha.top/pair",
     "pricing": {
-      "1_month": {
-        "price": 300,
-        "label": "1_month"
+      "1 MONTHLY RUNTIME": {
+        "price": 500,
+        "label": "1 MONTHLY RUNTIME"
       },
-      "1_week": {
-        "price": 5.99,
-        "label": "1 Week Plan"
+      "2 WEEKS RUNTIME": {
+        "price": 200,
+        "label": "2 WEEKS RUNTIME"
       }
     }
   },
