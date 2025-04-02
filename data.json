@@ -4,9 +4,18 @@
     "description": "CLICK PAIR BUTTON 🚀",
     "videoUrl": "https://asitha.top/pair",
     "pricing": {
-      "1_month": { "price": 15.99, "label": "1 Month Plan" },
-      "2_weeks": { "price": 9.99, "label": "2 Weeks Plan" },
-      "1_week": { "price": 5.99, "label": "1 Week Plan" }
+      "1_month": {
+        "price": 15.99,
+        "label": "1 Month Plan"
+      },
+      "2_weeks": {
+        "price": 9.99,
+        "label": "2 Weeks Plan"
+      },
+      "1_week": {
+        "price": 5.99,
+        "label": "1 Week Plan"
+      }
     }
   },
   "PRABATH MD": {
@@ -14,9 +23,18 @@
     "description": "CLICK PAIR BUTTON 🚀",
     "videoUrl": "https://prabath-md-pair-web-v2-slk.koyeb.app/pair",
     "pricing": {
-      "1_month": { "price": 19.99, "label": "1 Month Plan" },
-      "2_weeks": { "price": 12.99, "label": "2 Weeks Plan" },
-      "1_week": { "price": 7.99, "label": "1 Week Plan" }
+      "1_month": {
+        "price": 19.99,
+        "label": "1 Month Plan"
+      },
+      "2_weeks": {
+        "price": 122.99,
+        "label": "2 Weeks Plan"
+      },
+      "1_week": {
+        "price": 7.99,
+        "label": "1 Week Plan"
+      }
     }
   },
   "GIFTED MD": {
@@ -24,9 +42,18 @@
     "description": "CLICK PAIR BUTTON 🚀",
     "videoUrl": "https://pairing.giftedtech.web.id/",
     "pricing": {
-      "1_month": { "price": 24.99, "label": "1 Month Plan" },
-      "2_weeks": { "price": 15.99, "label": "2 Weeks Plan" },
-      "1_week": { "price": 9.99, "label": "1 Week Plan" }
+      "1_month": {
+        "price": 24.99,
+        "label": "1 Month Plan"
+      },
+      "2_weeks": {
+        "price": 15.99,
+        "label": "2 Weeks Plan"
+      },
+      "1_week": {
+        "price": 9.99,
+        "label": "1 Week Plan"
+      }
     }
   }
 }
