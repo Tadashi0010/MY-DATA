@@ -4,12 +4,8 @@
     "description": "CLICK PAIR BUTTON 🚀",
     "videoUrl": "https://asitha.top/pair",
     "pricing": {
-      "1_month": {
-        "price": 15.99,
-        "label": "1 Month Plan"
-      },
-      "2_weeks": {
-        "price": 9.99,
+      "1 monthly": {
+        "price": 300,
         "label": "2 Weeks Plan"
       },
       "1_week": {
