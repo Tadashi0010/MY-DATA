@@ -6,7 +6,7 @@
     "pricing": {
       "1_month": {
         "price": 300,
-        "label": "2 Weeks Plan"
+        "label": "1_month"
       },
       "1_week": {
         "price": 5.99,
