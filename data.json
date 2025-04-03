@@ -59,5 +59,28 @@
         "label": "1 year"
       }
     }
+  },
+  "ASITHA MD": {
+    "image": "https://files.catbox.moe/n4vocy.jpg",
+    "description": "CLICK PAIR BUTTON 🚀",
+    "videoUrl": "https://asitha.top/pair",
+    "pricing": {
+      "1 Month": {
+        "price": 300,
+        "label": "1 Month Plan"
+      },
+      "2 Month": {
+        "price": 500,
+        "label": "2 Month Plan"
+      },
+      "3 Month": {
+        "price": 750,
+        "label": "3 Month Plan"
+      },
+      "Life Time": {
+        "price": 1500,
+        "label": "Life Time"
+      }
+    }
   }
 }
