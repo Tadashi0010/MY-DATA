@@ -23,17 +23,21 @@
     "description": "CLICK PAIR BUTTON 🚀",
     "videoUrl": "https://pairing.giftedtech.web.id/",
     "pricing": {
-      "1_month": {
-        "price": 24.99,
+      "1 Month": {
+        "price": 300,
         "label": "1 Month Plan"
       },
-      "2_weeks": {
-        "price": 15.99,
-        "label": "2 Weeks Plan"
+      "2 Month": {
+        "price": 500,
+        "label": "2 Month Plan"
       },
-      "1_week": {
-        "price": 9.99,
-        "label": "1 Week Plan"
+      "3 Month": {
+        "price": 750,
+        "label": "3 Month Plan"
+      },
+      "Life Time": {
+        "price": 1500,
+        "label": "Life Time Plan"
       }
     }
   },
