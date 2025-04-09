@@ -67,5 +67,28 @@
         "label": "Life Time Plan"
       }
     }
+  },
+  "MOVIE MD": {
+    "image": "https://ibb.co/dJBnCzYd",
+    "description": "CLICK PAIR BUTTON 🚀",
+    "videoUrl": "https://asitha.top/pair",
+    "pricing": {
+      "1 Month": {
+        "price": 1000,
+        "label": "1 Month Plan"
+      },
+      "2 Month": {
+        "price": 1700,
+        "label": "2 Month Plan"
+      },
+      "3 Month Plan": {
+        "price": 2500,
+        "label": "3 Month Plan"
+      },
+      "Life Time": {
+        "price": 5000,
+        "label": "Life Time Plan"
+      }
+    }
   }
 }
